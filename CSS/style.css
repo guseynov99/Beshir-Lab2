@@ -1,0 +1,52 @@
+body{
+    background-color: #09c5c8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hesab{
+    border-style: none;
+    margin: auto;
+    width: 440px;
+    height: 350px;
+    margin-top: 160px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 5px;
+}
+.melumat{
+    margin-left: 27px;
+
+}
+.melumat input{
+    width: 380px;
+    height: 40px;
+    background-color: rgb(220, 220, 220);
+    border-style: none;
+    border-radius: 5px;
+}
+.hesab .basliq{
+    margin-left: 22px;
+}
+.sifre{
+    margin-top: 10px;
+}
+.giris{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.Me{
+    margin-left: 23px;
+    margin-top: 10px;
+}
+.unut{
+    margin-left: 140px;
+}
+.giris input{
+    width: 380px;
+    height: 40px;
+    background-color: #286bdf;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
